@@ -486,9 +486,7 @@ Contributions are welcome! Please:
 4. Add tests
 5. Submit a pull request
 
-## 📄 License
 
-[Your License Here]
 
 ## 🙏 Acknowledgments
 
