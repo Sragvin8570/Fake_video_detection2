@@ -1,9 +1,6 @@
 # Self-Supervised Video Forensics by Audio-Visual Anomaly Detection
 
-**Chao Feng, Ziyang Chen, Andrew Owens**  
-**University of Michigan, Ann Arbor**
 
-**CVPR 2023 (Highlight)**
 
 ---
 
@@ -37,9 +34,7 @@ Visual encoder is heavily borrowed from [action classifiction](https://github.co
 
 ---
 
-Any questions please contact chfeng@umich.edu, I will try to respond ASAP, sorry for any delay before.
 
----
 
 ```text
 @inproceedings{feng2023self,
@@ -49,8 +44,7 @@ Any questions please contact chfeng@umich.edu, I will try to respond ASAP, sorry
   pages={10491--10503},
   year={2023}
 }
-use winget install --id Gyan.FFmpeg -e after requirements.txt
-```
+
 # Deepfake Detection System with Video Deblurring
 
 A complete end-to-end deepfake detection system that combines video deblurring and audio-visual synchrony analysis to identify manipulated videos.
